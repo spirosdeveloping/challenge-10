@@ -1,0 +1,303 @@
+.logo{
+position: absolute;
+top: 50px;
+left: 50px;
+fill:white;
+}
+.features{
+
+  position: absolute;
+  top: 50px;
+  right: 250px;
+}
+.team{
+  position: relative;
+  left: 50px;
+}
+.sign-in{
+  position: relative;
+  left: 100px;
+}
+.all{
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  width: 30%;
+}
+.fylo{
+
+  position: absolute;
+  top: 300px;
+  left: 50px;
+  width: 30%;
+}
+.box{
+position: absolute;
+top:400px;
+left: 50px;
+height: 25px;
+width: 240px;
+border-style: solid;
+border-color: hsl(240, 15%, 78%);
+
+}
+.enter{
+  position: relative;
+  bottom: 10px;
+  left: 40px;
+  opacity: 40%;
+}
+.box-two{
+  position: absolute;
+  top:400px;
+  left: 330px;
+  height: 30px;
+  width: 140px;
+  border-style: none;
+  background-color: hsl(224, 93%, 58%);
+border-radius: 3px;
+}
+.gs{
+
+  position: absolute;
+  top:390px;
+  left: 370px;
+  color: white;
+}
+.photo{
+  position: absolute;
+  top: 170px;
+  right: 50px;
+  width: 550px;
+}
+.curve{
+position: absolute;
+top: 750px;
+bottom: 200px;
+width: 100%;
+
+}
+.stay{
+position: absolute;
+top: 850px;
+left:50px;
+
+}
+.never{
+position: absolute;
+top: 920px;
+left: 50px;
+width:30%;
+
+}
+.secu{
+  position: absolute;
+  top: 970px;
+  left: 50px;
+  width:30%;
+}
+.see{
+position: absolute;
+top: 1020px;
+left: 50px;
+color: hsl(170, 45%, 43%);
+border-bottom: solid hsl(170, 45%, 43%) 1px;
+}
+.arrow{
+  position: absolute;
+  top: 1038px;
+  left: 180px;
+  border-bottom: solid hsl(170, 45%, 43%) 1px;
+}
+.down-box{
+position: absolute;
+height: 180px;
+width: 300px;
+top: 1100px;
+left: 50px;
+border-style: none;
+background-color: white;
+box-shadow:  1px 1px 1px 1px hsl(0, 0%, 75%);
+}
+.fylo-has{
+  position: relative;
+font-size: 15px;
+width: 90%;
+top: 20px;
+left:20px;
+}
+.quotes{
+position: absolute;
+top: 1110px;
+left: 60px;
+
+}
+.photo{
+position: absolute;
+top: 1220px;
+left: 70px;
+border-radius: 15px;
+width: 30px;
+
+}
+.kyle{
+
+  position: absolute;
+  top: 1200px;
+  left: 110px;
+
+}
+.founder{
+  position: absolute;
+  top: 1220px;
+  left: 110px;
+}
+.illustration-two{
+position: absolute;
+top: 850px;
+right: 50px;
+width: 550px;
+
+}
+.cloudss{
+  top: 850px;
+position: absolute;
+height: 600px;
+width: 100%;
+background-color:hsl(240, 75%, 98%);
+
+}
+.container{
+
+
+  position: absolute;
+  top: 1450px;
+  width: 100%;
+  background-color:  hsl(238, 22%, 44%);
+  height: 400px;
+}
+.bottom-container{
+
+  position: absolute;
+  top: 1760px;
+  width: 100%;
+  background-color:hsl(243, 87%, 12%);
+  height: 300px;
+
+
+}
+.access{
+position: absolute;
+left: 50px;
+top: 1500px;
+color: white;
+
+
+}
+.para{
+position: absolute;
+left: 50px;
+top: 1550px;
+color: white;
+opacity: 60%;
+width: 28%;
+
+}
+.box-white{
+  position: absolute;
+  top:1530px;
+  right: 350px;
+  height: 30px;
+  width: 350px;
+  border-style: none;
+  background-color: white;
+}
+.box-three{
+
+  position: absolute;
+  top:1570px;
+  right: 540px;
+  height: 30px;
+  width: 160px;
+  border-style: none;
+  background-color: hsl(224, 93%, 58%);
+
+
+}
+.blue-button{
+position: relative;
+bottom: 10px;
+color: white;
+text-align: center;
+
+}
+.logo-img{
+color: white;
+position: absolute;
+top: 1800px;
+left: 50px;
+filter: brightness(0) invert(1);
+
+}
+.phone{
+position: absolute;
+top: 1880px;
+left: 50px;
+
+}
+.number{
+position: absolute;
+top: 1865px;
+left: 100px;
+color: white;
+opacity: 60%;
+}
+.email{
+
+  position: absolute;
+  top: 1920px;
+  left: 50px;
+
+
+}
+.mail{
+  position: absolute;
+  top: 1905px;
+  left: 100px;
+color: white;
+opacity: 60%;
+}
+.about{
+  position: absolute;
+  top: 1870px;
+  left: 390px;
+color: white;
+opacity: 60%;
+
+
+}
+.con{
+
+  position: absolute;
+  top: 1870px;
+  left: 790px;
+  color: white;
+  opacity: 60%;
+
+}
+.attribution{
+  position: absolute;
+  top: 2000px;
+  right: 50px;
+  color: white;
+  opacity: 60%;
+}
+.media{
+
+  position: absolute;
+border-radius: 10px;
+  top: 1900px;
+  right: 200px;
+   letter-spacing: 10px;
+filter: brightness(0) invert(1);
+}
